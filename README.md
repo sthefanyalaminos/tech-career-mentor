@@ -1,5 +1,7 @@
 # Tech Career Mentor AI
 
+<a href="https://github.com/sthefanyalaminos/tech-career-mentor/blob/main/README_EN.md">Translate to English</a>
+
 > Sistema de orientação de carreira em tecnologia com dois agentes de IA encadeados — do autoconhecimento ao plano de ação.
 
 ---
